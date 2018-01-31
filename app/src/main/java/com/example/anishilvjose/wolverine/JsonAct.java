@@ -15,7 +15,7 @@ import java.net.URL;
  * Created by JABIRkp on 1/3/2017.
  */
 public class JsonAct {
-    String path="http://192.168.43.47/roadwatcher/json/";
+    String path="http://http://roadwatchermacexyz.000webhostapp.com//roadwatcher/json/";
 
     public JsonAct()
     {

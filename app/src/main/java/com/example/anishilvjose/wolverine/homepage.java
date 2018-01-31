@@ -100,6 +100,9 @@ public class homepage extends AppCompatActivity
         } else if (id == R.id.nav_manage) {
             Intent i=new Intent(getApplicationContext(),Shake.class);
             startActivity(i);
+        } else if(id==R.id.nav_camera1){
+            Intent i=new Intent(getApplicationContext(),MapsActivity.class);
+            startActivity(i);
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {
